@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdfdfd;
+  color: #333;
+  line-height: 1.6;
+}
+
+.main-header {
+  background-color: #002E5D;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.main-header a {
+  color: #aad8ff;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+h2 {
+  color: #002E5D;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 8px;
+  margin-top: 40px;
+}
+
+h3 {
+  color: #003366;
+  margin-bottom: 4px;
+}
+
+h3 span {
+  font-weight: normal;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.edu-entry,
+.job-entry {
+  margin-bottom: 30px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
